@@ -1,0 +1,25 @@
+Online Gaming Website
+
+Category: Web Development
+Task Title: Online Gaming Website
+Game Concept: Moonpack Relay
+
+Overview
+Moonpack Relay is a browser-based puzzle game website concept. The website presents a complete online game landing page and a playable mini demo where the player guides a moon-wolf courier across a glowing forest route before the moon meter runs out.
+
+The game should not be a generic shooter, runner, casino game, or simple landing page. The main mechanic is a tile-routing puzzle: the player rotates or selects route tiles, collects moon tokens, avoids shadow tiles, and reaches the den tile before running out of moves or time.
+
+The final website should feel like a complete game destination with a hero section, play area, how-to-play section, character and world notes, mock leaderboard, score summary, responsive layout, and clear source documentation. The site should run locally in a browser using front-end web files only.
+
+Business Context
+LunaTrail Games is an indie-style browser game studio concept focused on small, polished web games that combine cozy fantasy, puzzle mechanics, and quick play sessions. The studio wants a public demo website for Moonpack Relay that can introduce the game idea and allow visitors to play a short browser demo.
+
+Target Users
+- Casual browser game players
+- Puzzle game fans
+- Students and portfolio reviewers
+- Players who enjoy cozy fantasy themes
+- Users who want a quick game that does not require login or payment
+
+Main Goal
+Create a responsive online gaming website with a playable front-end game demo, polished interface, clear instructions, and organized code/documentation.

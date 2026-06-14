@@ -1,0 +1,40 @@
+1. The submitted website project folder is named MoonpackRelay_OnlineGamingWebsite or the README clearly maps the delivered folder to that required project name.
+2. The submitted project includes index.html, organized CSS, organized JavaScript, README.md, source_notes.txt, and any required asset files.
+3. The website runs locally in a modern browser by following the README instructions.
+4. The landing section includes the game title Moonpack Relay.
+5. The landing section includes a short tagline and summary explaining the route-puzzle game concept.
+6. The landing section includes a clear Play Demo button or equivalent start control.
+7. The landing section includes a hero visual area, illustration placeholder, or game-themed visual block.
+8. The website includes a playable mini game demo rather than only static screenshots or text.
+9. The game demo includes at least five playable levels.
+10. Each level includes a clear start point and a clear den or goal point.
+11. The game uses a grid-based route, tile, or path-building mechanic.
+12. The player can rotate, select, or otherwise interact with tiles or route choices.
+13. The game includes moon tokens or equivalent collectibles that affect the score.
+14. The game includes shadow, blocked, or hazard tiles that create meaningful route decisions.
+15. The game includes a score counter that updates during or after play.
+16. The game includes a level indicator that shows the current level or progress.
+17. The game includes either a move counter or a timer that affects the challenge.
+18. The game includes a visible win state when the player completes a level.
+19. The game includes a visible lose, retry, or failed-attempt state.
+20. The game includes a restart control for replaying a level.
+21. The game includes a next-level control or automatic level progression after success.
+22. The game interface remains readable and usable on common desktop screen widths.
+23. The game interface remains readable and usable on common mobile screen widths.
+24. Buttons and interactive controls are large enough for touch use on smaller screens.
+25. The website includes a How to Play section explaining the objective.
+26. The How to Play section explains the player controls.
+27. The How to Play section explains scoring, collectibles, hazards, and the goal tile.
+28. The website includes a character or world section describing the moon-wolf courier.
+29. The character or world section describes moon tokens, shadow tiles, and the forest den goal.
+30. The website includes a mock leaderboard with at least five sample player names and scores.
+31. The leaderboard is clearly labeled as sample or local display and does not require a real external database.
+32. The visual style uses a consistent game theme with night, moon, forest, route, or glowing puzzle elements.
+33. The website uses readable typography, sufficient color contrast, and clear spacing.
+34. The CSS is organized and includes responsive layout rules.
+35. The JavaScript is organized and includes comments for main game logic such as level data, scoring, and win/loss checks.
+36. README.md explains setup, local run steps, file structure, game rules, controls, scoring, and known limitations.
+37. source_notes.txt lists all fonts, icons, images, libraries, code snippets, AI tools, or external resources used with source/license notes.
+38. The project does not include login, payment, betting, real-money rewards, crypto, NFTs, chat, or external leaderboard database features.
+39. The project does not upload user data, require private credentials, or depend on a paid API to run the core demo.
+40. The final website package is complete, organized, and contains no broken internal links or missing required files.

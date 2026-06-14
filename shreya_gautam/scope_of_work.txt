@@ -1,0 +1,65 @@
+Online Gaming Website - Scope of Work
+
+Build a responsive front-end website for Moonpack Relay, a browser-based tile-routing puzzle game. The website must include both presentation sections and a playable mini game demo.
+
+Required Website Sections
+1. Landing Section
+- Game title: Moonpack Relay
+- Short tagline
+- Hero visual or illustrated placeholder area
+- Play Demo button
+- Short explanation of the game
+
+2. Playable Game Demo
+- At least five playable levels
+- Grid-based route or tile puzzle mechanic
+- Start tile, goal tile, route tiles, shadow tiles, and moon token tiles
+- Player action to rotate, select, or build a route
+- Score counter
+- Move counter or timer
+- Win state
+- Lose or retry state
+- Restart button
+- Next level button
+
+3. How to Play Section
+- Explain the game objective
+- Explain controls
+- Explain scoring
+- Explain moon tokens, shadow tiles, and goal tile
+- Include simple icon labels or visual examples
+
+4. Character and World Section
+- Short description of the moon-wolf courier
+- Short description of moon tokens
+- Short description of shadow tiles
+- Short description of the forest den goal
+
+5. Mock Leaderboard
+- Include at least five sample player names and scores
+- Show the current local score if implemented
+- Use local browser storage only if score persistence is included
+- No external database is required
+
+6. Responsive Layout
+- Website must work on desktop and mobile screen widths
+- Buttons must be readable and usable on smaller screens
+- Game board must remain visible and playable on common mobile widths
+
+Technical Scope
+- Use HTML, CSS, and JavaScript
+- Frameworks are optional but not required
+- The site must run locally from the delivered files
+- No backend server is required
+- No login, payment, gambling, chat, crypto, NFT, real-money reward, or external leaderboard database
+- No user data should be uploaded to any external service
+
+Expected Deliverables
+1. Complete website source code
+2. Playable browser mini game demo
+3. Responsive landing page
+4. How-to-play section
+5. Character/world section
+6. Mock leaderboard
+7. README.md with setup and run instructions
+8. source_notes.txt listing assets, fonts, libraries, code sources, and excluded features
